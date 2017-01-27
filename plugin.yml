@@ -1,0 +1,12 @@
+name: ReportGui
+description: Simple report plugin
+version: 1.0
+author: CommandCraft
+main: me.commandcraft.report.Main
+
+commands:
+  report:
+    description: used to report
+permission:
+  report.admin:
+    default: op
